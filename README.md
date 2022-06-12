@@ -11,8 +11,8 @@ Checklist of things done:
 
 - [x] [Classic GMM gender-recognition approach](classic_gmm_gr.ipynb)
 - [x] [Classic GMM voice-recognition approach](classic_gmm_vr.ipynb)
-- [x] [GMM-UBM gender-recognition approach](map_adaptation_gr.ipynb)
-- [x] [GMM-UBM voice-recognition approach](map_adaptation_vr.ipynb)
+- [x] [GMM-UBM gender-recognition approach using MAP-adaptation](map_adaptation_gr.ipynb)
+- [x] [GMM-UBM voice-recognition approach using MAP-adaptation](map_adaptation_vr.ipynb)
 - [ ] Supervector based GMM-UBM voice-recognition approach
 - [ ] GMM-UBM/i-vector approach
 
